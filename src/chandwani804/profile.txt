@@ -1,0 +1,8 @@
+#User Profile Data
+#12/07/2012 20:17:55
+DNNSDServiceName=twit
+ProtocolPort=55555
+UserID=eeaa11094279ab90d816891506928045
+UserMotto=bitches ain't shit
+UserName=Ashish Chandwani
+UserURL=www.reddit.com
